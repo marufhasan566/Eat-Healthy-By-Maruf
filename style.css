@@ -23,6 +23,7 @@ body {
 .branding {
     margin-top: 100px;
     margin-left: 50px;
+    width: 50%;
 }
 
 .branding a {
@@ -35,4 +36,9 @@ body {
     border-radius: 50px;
     border: outset;
     color: white;
+}
+
+.image_front {
+    margin-top: -50px;
+    width: 50%;
 }
