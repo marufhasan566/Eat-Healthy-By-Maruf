@@ -1,0 +1,38 @@
+body {
+    background-color: bisque;
+    font-family: 'Poppins', sans-serif;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.front {
+    display: flex;
+}
+
+.branding h1 {
+    font-size: 50px;
+    font-weight: 00;
+}
+
+.branding p {
+    text-align: justify;
+}
+
+.branding {
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.branding a {
+    background-image: linear-gradient(tomato, orange);
+    text-decoration: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: x-large;
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: outset;
+    color: white;
+}
